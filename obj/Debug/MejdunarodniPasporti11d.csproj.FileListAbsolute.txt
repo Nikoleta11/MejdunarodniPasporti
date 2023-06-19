@@ -1,0 +1,8 @@
+C:\Nikoleta 11d\MejdunarodniPasporti11d\bin\Debug\MejdunarodniPasporti11d.exe.config
+C:\Nikoleta 11d\MejdunarodniPasporti11d\bin\Debug\MejdunarodniPasporti11d.exe
+C:\Nikoleta 11d\MejdunarodniPasporti11d\bin\Debug\MejdunarodniPasporti11d.pdb
+C:\Nikoleta 11d\MejdunarodniPasporti11d\obj\Debug\MejdunarodniPasporti11d.csproj.AssemblyReference.cache
+C:\Nikoleta 11d\MejdunarodniPasporti11d\obj\Debug\MejdunarodniPasporti11d.csproj.SuggestedBindingRedirects.cache
+C:\Nikoleta 11d\MejdunarodniPasporti11d\obj\Debug\MejdunarodniPasporti11d.csproj.CoreCompileInputs.cache
+C:\Nikoleta 11d\MejdunarodniPasporti11d\obj\Debug\MejdunarodniPasporti11d.exe
+C:\Nikoleta 11d\MejdunarodniPasporti11d\obj\Debug\MejdunarodniPasporti11d.pdb
